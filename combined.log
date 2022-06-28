@@ -1,0 +1,35 @@
+{"level":"info","message":"soy info","service":"user-service"}
+{"level":"warn","message":"soy warn","service":"user-service"}
+{"level":"error","message":"soy error","service":"user-service"}
+{"level":"info","message":"soy info","service":"user-service"}
+{"level":"warn","message":"soy warn","service":"user-service"}
+{"level":"error","message":"soy error","service":"user-service"}
+{"level":"info","message":"soy info","service":"user-service"}
+{"level":"warn","message":"soy warn","service":"user-service"}
+{"level":"error","message":"soy error","service":"user-service"}
+{"level":"info","message":"info","service":"user-service"}
+{"level":"warn","message":"asd","service":"user-service"}
+{"level":"info","message":"asd","service":"user-service"}
+{"level":"info","message":"asd","service":"user-service"}
+{"level":"info","message":"asd","service":"user-service"}
+{"level":"info","message":"soy info","service":"user-service"}
+{"level":"warn","message":"soy warn","service":"user-service"}
+{"level":"error","message":"soy error","service":"user-service"}
+{"level":"info","message":"soy info","service":"user-service"}
+{"level":"warn","message":"soy warn","service":"user-service"}
+{"level":"error","message":"soy error","service":"user-service"}
+{"level":"info","message":"soy info","service":"user-service"}
+{"level":"warn","message":"soy warn","service":"user-service"}
+{"level":"error","message":"soy error","service":"user-service"}
+{"level":"info","message":"soy info","service":"user-service"}
+{"level":"warn","message":"soy warn","service":"user-service"}
+{"level":"debug","message":"soy debug","service":"user-service"}
+{"level":"error","message":"soy error","service":"user-service"}
+{"level":"info","message":"soy info","service":"user-service"}
+{"level":"warn","message":"soy warn","service":"user-service"}
+{"level":"debug","message":"soy debug","service":"user-service"}
+{"level":"error","message":"soy error","service":"user-service"}
+{"level":"error","message":"","service":"user-service"}
+{"level":"error","message":"Hay un error","service":"user-service"}
+{"level":"error","message":"","service":"user-service"}
+{"level":"error","message":"Hay un error","service":"user-service"}
